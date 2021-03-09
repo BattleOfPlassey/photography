@@ -1,0 +1,27 @@
+# Base configs
+# baseurl: "http://images.palashshrivastava.tech/"
+baseurl: ""
+image_fulls_loc: "/images/fulls"
+image_thumbs_loc: "/images/thumbs"
+google_analytics: "G-2G4R16N51K"
+
+# UI configs
+title: "Photography by Palash"
+subtitle: "Pictures are just stories we all fail to put in words."
+author: "Palash Shrivastava"
+header:
+ title: "Photography"
+ subtitle: "by Palash Shrivastava"
+footer:
+ name: "Bonjour, my name is Palash"
+ bio: "A passionate Developer and a web designer who creates seamless web apps with functional and creative designs. Also Performs experimentations in his liesure time by trying out new things."
+ github: "Want a website like this for yourself for free? <a href=\"https://github.com/ramswaroop/photography\">Fork me on github</a> ;)"
+web_design: "AJ"
+social_urls:
+  # facebook: ""
+  twitter: "https://twitter.com/palash_alphaS"
+  instagram: "https://www.instagram.com/palash_alphas/"
+  # dribbble: ""
+  linkedin: "https://www.linkedin.com/in/palash-shrivastava/"
+  github: "https://github.com/lameguest21"
+  # bundle exec jekyll serve --incremental

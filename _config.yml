@@ -25,3 +25,5 @@ social_urls:
   linkedin: "https://www.linkedin.com/in/palash-shrivastava/"
   github: "https://github.com/lameguest21"
   # bundle exec jekyll serve --incremental
+
+theme: jekyll-theme-cayman

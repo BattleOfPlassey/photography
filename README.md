@@ -1,7 +1,7 @@
 <img src="https://i.imgur.com/ZG4gSnb.jpeg" alt="demo"/>
 
 # Photography ![OpenCollective](https://opencollective.com/photography/tiers/backer/badge.svg?label=backer&color=brightgreen)
-A jekyll website for photographers
+A jekyll website for photographers by Ram Patra
 
 ## Highlights
 1. Easy setup and you get a site of your own for __free__.
@@ -39,6 +39,6 @@ and thumbnail generation__. So if you're lazy like me then you can just do the f
 You can make the contact form work without the need of any server-side code. Just follow this [article on github](https://github.com/dwyl/html-form-send-email-via-google-script-without-server) which uses a simple google script to send emails or to upload to a google spreadsheet when someone submits the form.
 
 ## Credits
-Thanks to [AJ](https://twitter.com/ajlkn) for the website template which I enhanced for [jekyll](http://jekyllrb.com/).
+Thanks to by Ram Patra , [AJ](https://twitter.com/ajlkn) for the website template which is enhanced for [jekyll](http://jekyllrb.com/).
 
 
